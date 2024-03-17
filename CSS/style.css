@@ -1,0 +1,8 @@
+/* Estilos adicionales para el ejercicio 4 */
+.lista-desordenada li:hover {
+    cursor: pointer;
+}
+/* Estilos adicionales para el ejercicio 5 */
+.contenido-oculto {
+    display: none;
+}
